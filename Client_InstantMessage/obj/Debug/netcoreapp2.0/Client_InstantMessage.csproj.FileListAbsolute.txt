@@ -1,0 +1,13 @@
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\bin\Debug\netcoreapp2.0\Client_InstantMessage.deps.json
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\bin\Debug\netcoreapp2.0\Client_InstantMessage.runtimeconfig.json
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\bin\Debug\netcoreapp2.0\Client_InstantMessage.runtimeconfig.dev.json
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\bin\Debug\netcoreapp2.0\Client_InstantMessage.dll
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\bin\Debug\netcoreapp2.0\Client_InstantMessage.pdb
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\obj\Debug\netcoreapp2.0\Client_InstantMessage.csprojResolveAssemblyReference.cache
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\obj\Debug\netcoreapp2.0\Client_InstantMessage.csproj.CoreCompileInputs.cache
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\obj\Debug\netcoreapp2.0\Client_InstantMessage.AssemblyInfoInputs.cache
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\obj\Debug\netcoreapp2.0\Client_InstantMessage.AssemblyInfo.cs
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\obj\Debug\netcoreapp2.0\Client_InstantMessage.dll
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\obj\Debug\netcoreapp2.0\Client_InstantMessage.pdb
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\bin\Debug\netcoreapp2.0\Shared_DataModels.dll
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Client_InstantMessage\bin\Debug\netcoreapp2.0\Shared_DataModels.pdb

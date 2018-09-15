@@ -1,0 +1,13 @@
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\bin\Debug\netcoreapp2.0\Server_WebSocket.deps.json
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\bin\Debug\netcoreapp2.0\Server_WebSocket.runtimeconfig.json
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\bin\Debug\netcoreapp2.0\Server_WebSocket.runtimeconfig.dev.json
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\bin\Debug\netcoreapp2.0\Server_WebSocket.dll
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\bin\Debug\netcoreapp2.0\Server_WebSocket.pdb
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\bin\Debug\netcoreapp2.0\Shared_DataModels.dll
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\bin\Debug\netcoreapp2.0\Shared_DataModels.pdb
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\obj\Debug\netcoreapp2.0\Server_WebSocket.csprojResolveAssemblyReference.cache
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\obj\Debug\netcoreapp2.0\Server_WebSocket.csproj.CoreCompileInputs.cache
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\obj\Debug\netcoreapp2.0\Server_WebSocket.AssemblyInfoInputs.cache
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\obj\Debug\netcoreapp2.0\Server_WebSocket.AssemblyInfo.cs
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\obj\Debug\netcoreapp2.0\Server_WebSocket.dll
+D:\DEV\Projects\RESTvsWebSockets\RESTvsWebSockets_Demo\Server_WebSocket\obj\Debug\netcoreapp2.0\Server_WebSocket.pdb
